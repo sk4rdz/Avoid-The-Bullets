@@ -1,71 +1,70 @@
-�y�^�C�g���z Avoid The Bullets
-�y����ҁz 69�� ���c�s��
-�y������z Windows
+【タイトル】 Avoid The Bullets
+【動作環境】 Windows
 
-�@[�T�v]
-�@�@�����{�[���𑀍삵�A���F���{�[��������Ȃ���E��̃S�[����ڎw���܂��B
-�@�@�N���A�^�C����X�e�[�W�A�A�C�e�����ɂ���ĕϓ�����X�R�A�������܂��B
+　[概要]
+　　白いボールを操作し、黄色いボールを避けながら右上のゴールを目指します。
+　　クリアタイムやステージ、アイテム等によって変動するスコアを競います。
 
-�@[�������]
-�@�@W�L�[: ��ɐi��
-�@�@S�L�[: ���ɐi��
-�@�@A�L�[: ���ɐi��
-�@�@D�L�[: �E�ɐi��
-�@�@Z�L�[: �|�[�Y���j���[
+　[操作説明]
+　　Wキー: 上に進む
+　　Sキー: 下に進む
+　　Aキー: 左に進む
+　　Dキー: 右に進む
+　　Zキー: ポーズメニュー
 
-�@�@�������̃L�[�𓯎��ɉ������ƂŎ΂߂Ɉړ����鎖���\�ł��B
+　　※複数のキーを同時に押すことで斜めに移動する事も可能です。
 
-�@[�p�l���\��]
-�@�@������̃p�l���ɏ�񂪕\������܂��B
+　[パネル表示]
+　　＊左上のパネルに情報が表示されます。
 
-�@�@�@�uSTAGE�v: ���݂̃X�e�[�W��
-�@�@�@�uTIME�v: �c�莞��
-�@�@�@�uREM�v: �c��@��
-�@�@�@�uSCORE�v: ���݂̃X�R�A
-�@�@�@�uHIGH SCORE�v: �n�C�X�R�A
+　　　「STAGE」: 現在のステージ名
+　　　「TIME」: 残り時間
+　　　「REM」: 残り機数
+　　　「SCORE」: 現在のスコア
+　　　「HIGH SCORE」: ハイスコア
 
-�@[�A�C�e��]
-�@�@���S�R��ނ̃A�C�e�����o�����邱�Ƃ�����܂��B
+　[アイテム]
+　　＊全３種類のアイテムが出現することがあります。
 
-�@�@�@���F: ���Ǝc�莞�Ԃ��T�b�񕜂��܂��B
-�@�@�@�ΐF: ���Ǝc��@��������₵�܂��B
-�@�@�@�ԐF: �������ԂŃS�[������ƃX�R�A�����Z����܂��B
+　　　水色: 取ると残り時間を５秒回復します。
+　　　緑色: 取ると残り機数を一つ増やします。
+　　　赤色: 取った状態でゴールするとスコアが加算されます。
 
-�@[���j���[]
-�@�@�����j���[���ł�()���̕�������͂��邱�Ƃł��̍��ڂ�I���ł��܂��B
+　[メニュー]
+　　＊メニュー内では()内の文字を入力することでその項目を選択できます。
 
-�@�@{�^�C�g�����j���[}
-�@�@�@���N�����͂��̉�ʂ��\������܂��B
+　　{タイトルメニュー}
+　　　＊起動時はこの画面が表示されます。
 
-�@�@�@�@�uSTART NORMAL MODE�v: �m�[�}�����[�h�ŃX�^�[�g
-�@�@�@�@�uSTART NORMAL MODE�v: �G���h���X���[�h�ŃX�^�[�g
-�@�@�@�@�uHELP�v: ������@�ƃv���C��ʂ̐�����\�����܂��B
-�@�@�@�@�uOPTION�v: �I�v�V�������j���[��\�����܂��B
+　　　　「START NORMAL MODE」: ノーマルモードでスタート
+　　　　「START NORMAL MODE」: エンドレスモードでスタート
+　　　　「HELP」: 操作方法とプレイ画面の説明を表示します。
+　　　　「OPTION」: オプションメニューを表示します。
 
-�@�@{�I�v�V�������j���[}
-�@�@�@���^�C�g�����j���[�ŁuOPTION�v��I������Ƃ��̉�ʂ��\������܂��B
+　　{オプションメニュー}
+　　　＊タイトルメニューで「OPTION」を選択するとこの画面が表示されます。
 
- �@�@�@�uSOUND OFF(ON)�v: �T�E���h�̃I���ƃI�t��؂�ւ��܂��B�ݒ�͕ۑ�����܂��B
- �@�@�@�uDELETE HIGHSCORE�v: �ۑ�����Ă���n�C�X�R�A���폜���܂��B
- �@�@�@�uBACK TO TITLE�v: �^�C�g�����j���[�ɖ߂�܂��B
+ 　　　「SOUND OFF(ON)」: サウンドのオンとオフを切り替えます。設定は保存されます。
+ 　　　「DELETE HIGHSCORE」: 保存されているハイスコアを削除します。
+ 　　　「BACK TO TITLE」: タイトルメニューに戻ります。
 
-�@�@{�|�[�Y���j���[}
-�@�@�@���v���C����Z�L�[�������Ƃ��̉�ʂ��\������A�Q�[�������f����܂��B
+　　{ポーズメニュー}
+　　　＊プレイ中にZキーを押すとこの画面が表示され、ゲームが中断されます。
 
- �@�@�@�uBACK TO GAME�v: �Q�[�����ĊJ���܂��B
- �@�@�@�uBACK TO TITLE�v: �^�C�g�����j���[�ɖ߂�܂��B
+ 　　　「BACK TO GAME」: ゲームを再開します。
+ 　　　「BACK TO TITLE」: タイトルメニューに戻ります。
 
-�@�@{�Q�[���N���A/�Q�[���I�[�o�[���}
-�@�@�@���Q�[���N���A���̓Q�[���I�[�o�[����Ƃ��̉�ʂ��\������܂��B
+　　{ゲームクリア/ゲームオーバー画面}
+　　　＊ゲームクリア又はゲームオーバーするとこの画面が表示されます。
 
-�@�@ �@�uRESTART�v: �������[�h�ł�����x�v���C���܂��B
-�@�@ �@�uBACK TO TITLE�v: �^�C�g�����j���[�ɖ߂�܂��B
+　　 　「RESTART」: 同じモードでもう一度プレイします。
+　　 　「BACK TO TITLE」: タイトルメニューに戻ります。
 
-�@[�X�R�A�L�^]
-�@�@���n�C�X�R�A�͎����I�ɋL�^����܂��B
-�@�@���I�v�V�������j���[�ŁuDELETE HIGHSCORE�v��I�����鎖�ŋL�^���폜�ł��܂��B
+　[スコア記録]
+　　＊ハイスコアは自動的に記録されます。
+　　＊オプションメニューで「DELETE HIGHSCORE」を選択する事で記録を削除できます。
 
-�@[�G�f�B�b�g]
-�@�@�t���[BGM�E���y�f��MusMus http://musmus.main.jp
-�@�@�t���[���y�f��/������ http://maoudamashii.jokersounds.com
+　[エディット]
+　　フリーBGM・音楽素材MusMus http://musmus.main.jp
+　　フリー音楽素材/魔王魂 http://maoudamashii.jokersounds.com
 
